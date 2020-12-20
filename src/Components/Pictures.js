@@ -2,7 +2,7 @@ import React from 'react';
 
 const Pictures = () => {
     return (
-        <div>Show Pictures!</div>
+        <div>Show Pictures!!!!</div>
     );
 };
 
